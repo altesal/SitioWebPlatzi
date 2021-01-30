@@ -11820,11 +11820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\SitioWebPlatzi\\PlatziWebSite\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\mariajose.pedreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\PlatziWebSite\\obj\\",
+      "outputPath": "C:\\Users\\mariajose.pedreira\\Documents\\Altran Cursos\\2021\\0400 Web Apps\\SitioWebPlatzi\\PlatziWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
